@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2109493610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d59b10c4aaf5d05507932073f0ac34b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Dial/Image/selfDefine.png
+- Assets/Dial/Image/Round.png
+- Assets/Dial/Image/CJ.png
+- Assets/Dial/Image/False.png
+- Assets/Dial/Image/AddOrange.png
+- Assets/Dial/Image/ZXH.png
+- Assets/Dial/Image/Title.png
+- Assets/Dial/Image/Del.png
+- Assets/Dial/Image/Dark.png
+- Assets/Dial/Image/round1.png
+- Assets/Dial/Image/JB.png
+- Assets/Dial/Image/KTV.png
+- Assets/Dial/Image/start.png
+- Assets/Dial/Image/BG1.png
+- Assets/Dial/Image/add.png
+- Assets/Dial/Image/ZhuanPan.png
+- Assets/Dial/Image/Yes.png
+- Assets/Dial/Image/setting.png
+- Assets/Dial/Image/more.png
+- Assets/Dial/Image/QL.png
+- Assets/Dial/Image/Back.png
+- Assets/Dial/Image/JW.png
+- Assets/Dial/Image/AdIcon.png
+- Assets/Dial/Image/MiddleCircle.png
+Dependencies: []
