@@ -21,7 +21,7 @@ end
 function MenuPanelCtrl.OnCreate(obj)
 	gameObject = obj;
 	menupanel = gameObject:GetComponent('LuaBehaviour');
-	
+
 	print("Start lua--->>"..gameObject.name);
 end
 
